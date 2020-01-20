@@ -5,6 +5,7 @@ am interested in xyz s
 
 ## Essays and Opinions
 
+<img src="pic/teste.png"/>
 
 ## GitHub Pages
 
