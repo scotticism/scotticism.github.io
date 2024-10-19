@@ -7,8 +7,8 @@ My purpose in this website is to host a collection of tools that may aid my frie
 
 ## 30 Second Guide: How to be Helpful
 **Observation**: Offering unsolicited advice is often counterproductive.  
-**Evidence**: Humans have an instinct to rebut when spoken to at length without the chance to respond.  
-**Outcome**: Lengthy advice triggers people to consciously or unconsciously think of reasons to disagree.  
+**Evidence**: Humans have an instinct to rebut when spoken to at length.
+**Outcome**: "Free Advice" triggers people to consciously and unconsciously think of NOT changing
 
 So what's the alternative?   
 It turns out that, more often than not, people **already know** what they need to do to improve their situation.  
