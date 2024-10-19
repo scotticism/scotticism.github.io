@@ -5,7 +5,7 @@ Hi, I'm Scott. I'm currently a Substance Abuse Counselor and Social Work Masters
 My purpose in this website is to host a collection of tools that may aid my friends and peers, and otherwise share ideas that may expand how you think and live. 
 
 
-## 30 Second Guide: how to be helpful
+## 30 Second Guide: How to be Helpful
 **Observation**: Offering unsolicited advice is often counterproductive.  
 **Evidence**: Humans have an instinct to rebut when spoken to at length without the chance to respond.  
 **Outcome**: Lengthy advice triggers people to consciously or unconsciously think of reasons to disagree.  
