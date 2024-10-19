@@ -1,6 +1,6 @@
-## Introduction
+## Caso's Blog
 
-Hi, I'm Scott. I'm currently a Substance Abuse Counselor and Social Work Masters Student in Des Moines, Iowa. Before this, I was an Emergency Medical Technician. My interests are in computer science, spirituality, storytelling, psychology, and mental health. 
+Hi, I'm Scott, also known as Caso. I'm currently a Substance Abuse Counselor and Social Work Masters Student in Des Moines, Iowa. Before this, I was an Emergency Medical Technician. My interests are in computer science, spirituality, storytelling, psychology, and mental health. 
 
 My purpose in this website is to host a collection of tools that may aid my friends and peers, and otherwise share ideas that may expand how you think and live. 
 
