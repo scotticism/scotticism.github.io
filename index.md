@@ -20,7 +20,8 @@ read more: https://motivationalinterviewing.org/understanding-motivational-inter
 
 The rapid advancement of technology in the late 20th century brought significant changes to various fields, including psychology and social work. This section explores two key areas: (1) Computer Diagnostic Assessments, and (2) Social Behavior and Culture.
 
-**Ethical Challenges**  
+**Computer Diagnostic Assessments**  
+
 Computer Assessments have become a powerful tool for their objectivity and accessibility. The assessments can be more capable than a human expert, as in the case of IBM Watson, which can diagnose and plan treatment for a brain cancer patient in just ten minutes-- a task that typically takes a team of experts over 160 hours to complete (Strickland 2017)... But can these computers account for nuances like interpersonal understanding?
 
 "Computers are opaque to sensory information, moods, feelings, and context" Mander (1985). As a result, computer assessments miss subtleties that would be discerned by an expert interviewer. Moreover, an expert will use processes like “intuition checks” to ensure the validity of test results following assessment. Comparatively, computer assessments may be accurate- but not so much valid (Butterfield, 1986, p. 13). In modern times we have noted this in GPT models, which, despite generating detailed responses, often produce content that’s inaccurate or nonsensical (Ziwei et al., 2023).
@@ -29,7 +30,7 @@ Another concern is the dehumanizing nature of prioritizing objective data. It is
 
 These risks become even more concerning when we consider expert opinions on computerized therapy. Weizenbaum, creator of Eliza (the first computer psychotherapist), now condemns it as immoral and obscene (Butterfield, 1986, p. 12), warning that “exposure to [even] a relatively simple computer program could induce powerful delusional thinking in quite normal people” (Weizenbaum, 1976). 
 
-**Social behavior and culture.**  
+**Social behavior and culture**  
 
 New advances in artificial intelligence have brought about AI friends, AI counselors, and even AI significant others that can be downloaded from the app store. These programs can understand and cater to the user's needs using algorithms that continuously adapt to maximize engagement. Research shows that these technologies are working; internet and smartphone addictions are rapidly increasing worldwide (Méndez et al., 2024). These addictions are associated with excessive use, poor control over use, and significant changes in biopsychosocial health (Méndez et al., 2024). Butterfield, citing Walsh (1985), presciently noted: "These machines [will] hold a person's attention like no other, [as if they have] become addicted to a new drug". 
 
