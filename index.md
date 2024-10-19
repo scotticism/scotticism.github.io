@@ -5,16 +5,16 @@ Hi, I'm Scott. I'm currently a Substance Abuse Counselor and Social Work Masters
 My purpose in this website is to host a collection of tools that may aid my friends and peers, and otherwise share ideas that may expand how you think and live. 
 
 
-## 5 Minute Guide on how to be helpful
-Observation: Offering unsolicited advice is often counterproductive.  
-Evidence: Humans have an instinct to rebut when spoken to at length without the chance to respond.  
-Outcome: Lengthy advice triggers people to consciously or unconsciously think of reasons to disagree.  
+## 30 Second  Guide on how to actually be helpful
+**Observation**: Offering unsolicited advice is often counterproductive.  
+**Evidence**: Humans have an instinct to rebut when spoken to at length without the chance to respond.  
+**Outcome**: Lengthy advice triggers people to consciously or unconsciously think of reasons to disagree.  
 
 So what's the alternative?   
-It turns out that, more often than not, people **already know** what they need to do to improve their situation. All they need is for someone to listen to and believe in them.
+It turns out that, more often than not, people **already know** what they need to do to improve their situation.  
+All they need is for someone to listen to and believe in them.
 
-*to be continued*
-
+read more: https://motivationalinterviewing.org/understanding-motivational-interviewing
 
 ## Excerpt from "Bytes to Behavior", Scott Caso 9-13-24
 
